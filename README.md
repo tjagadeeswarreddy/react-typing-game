@@ -2,6 +2,12 @@
 
 A simple and interactive typing game built with React that helps improve typing speed and accuracy.
 
+## 🌐 **Live Demo**
+
+**Play the game here:** https://tjagadeeswarreddy.github.io/react-typing-game
+
+![GitHub Pages Deployment](https://img.shields.io/badge/GitHub%20Pages-Deployed-green?style=for-the-badge&logo=github)
+
 ## 🎯 Project Requirements
 
 - **React 18** - Modern React framework for building user interfaces
